@@ -74,9 +74,18 @@ janardhan:
 **Big Data & Orchestration**
 
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+
+<br/><br/>
+
+**Lakehouse & Data Quality**
+
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Iceberg-1B1F23?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Great%20Expectations-FF6600?style=for-the-badge&logo=greatexpectations&logoColor=white"/>
 
 <br/><br/>
 
@@ -91,12 +100,20 @@ janardhan:
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+
+<br/><br/>
+
+**Infrastructure, CI/CD & Observability**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 <br/><br/>
 
 **Tools & Platform**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" />
 
 </div>
 
@@ -220,6 +237,38 @@ Dimensional data warehouse project with staging → intermediate → mart layers
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Janardhankent&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+
+<br/><br/>
+
+**Certifications**
+
+<!--
+  Add badges here as you earn certifications — a few common Data Engineering ones below (commented out).
+  Uncomment and edit once earned; delete the ones that don't apply.
+
+  <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks%20Certified-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+-->
+
+<sub>🎯 Actively working toward AWS / Databricks certification — badges will land here once earned.</sub>
+
+<br/><br/>
+
+**Impact**
+
+<!--
+  Swap these placeholders for real numbers once you have them — recruiters weigh
+  concrete metrics heavily. Think: rows/day processed, pipeline uptime, cost
+  savings from an optimization, hours saved via automation, etc.
+-->
+
+| Metric | Value |
+|---|---|
+| Pipelines built & maintained | _add your number_ |
+| Data volume processed | _e.g. "50M+ rows/day"_ |
+| Pipeline reliability | _e.g. "99.5% uptime"_ |
 
 </div>
 
