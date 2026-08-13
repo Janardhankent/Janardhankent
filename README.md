@@ -64,27 +64,39 @@ janardhan:
 
 <div align="center">
 
-**Languages & Web Fundamentals**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
-**Frameworks & Runtime**
+**Big Data & Orchestration**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+
+<br/><br/>
+
+**Cloud & Data Platforms**
+
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 <br/><br/>
 
-**Tools, DevOps & Platform**
+**Tools & Platform**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,aws,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,postman" />
 
 </div>
 
@@ -128,15 +140,15 @@ janardhan:
 <tr>
 <td width="33%" valign="top">
 
-### 📦 Data Pipeline Orchestrator
-Automated, fault-tolerant ETL orchestration framework that ingests data from multiple sources, applies validation rules, and loads it into a cloud warehouse on a scheduled cadence.
+### 📦 Batch ETL Pipeline on Airflow
+Production-style orchestration pipeline that extracts data from multiple sources, runs validation & transformation logic, and lands curated datasets in a cloud warehouse on a scheduled DAG.
 
 **Tech Stack**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 
 <br/><br/>
 
@@ -146,15 +158,15 @@ Automated, fault-tolerant ETL orchestration framework that ingests data from mul
 </td>
 <td width="33%" valign="top">
 
-### 📈 Real-Time Analytics Dashboard
-End-to-end streaming pipeline that captures event data, processes it in near real time, and visualizes key business metrics on an interactive dashboard.
+### 📈 Real-Time Streaming Pipeline
+Event-driven pipeline that ingests streaming data through Kafka, processes it with Spark Structured Streaming, and writes aggregated metrics to a queryable data store.
 
 **Tech Stack**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 
 <br/><br/>
 
@@ -164,15 +176,15 @@ End-to-end streaming pipeline that captures event data, processes it in near rea
 </td>
 <td width="33%" valign="top">
 
-### 🗄️ Data Warehouse Modeling Suite
-A structured data warehouse project implementing dimensional modeling, incremental loads, and query optimization for fast, reliable analytics reporting.
+### 🗄️ Data Warehouse & dbt Models
+Dimensional data warehouse project with staging → intermediate → mart layers built in dbt, incremental models, and automated testing for data quality and lineage tracking.
 
 **Tech Stack**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Redshift-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
 <br/><br/>
 
