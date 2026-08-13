@@ -76,6 +76,7 @@ janardhan:
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagster-6E4AFF?style=for-the-badge&logo=dagster&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 
@@ -101,6 +102,14 @@ janardhan:
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+
+<br/><br/>
+
+**Vector & AI Data**
+
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature%20Store-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-6E4AFF?style=for-the-badge&logo=pinecone&logoColor=white"/>
 
 <br/><br/>
 
