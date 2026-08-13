@@ -164,7 +164,7 @@ janardhan:
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📦 Batch ETL Pipeline on Airflow
 Production-style orchestration pipeline that extracts data from multiple sources, runs validation & transformation logic, and lands curated datasets in a cloud warehouse on a scheduled DAG.
@@ -182,7 +182,7 @@ Production-style orchestration pipeline that extracts data from multiple sources
 <a href="#"><img src="https://img.shields.io/badge/Live-Demo-2C5364?style=flat-square&logo=vercel"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📈 Real-Time Streaming Pipeline
 Event-driven pipeline that ingests streaming data through Kafka, processes it with Spark Structured Streaming, and writes aggregated metrics to a queryable data store.
@@ -200,7 +200,9 @@ Event-driven pipeline that ingests streaming data through Kafka, processes it wi
 <a href="#"><img src="https://img.shields.io/badge/Live-Demo-2C5364?style=flat-square&logo=vercel"/></a>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🗄️ Data Warehouse & dbt Models
 Dimensional data warehouse project with staging → intermediate → mart layers built in dbt, incremental models, and automated testing for data quality and lineage tracking.
@@ -211,6 +213,24 @@ Dimensional data warehouse project with staging → intermediate → mart layers
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Redshift-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Janardhankent"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-2C5364?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI-Ready Feature Pipeline with Vector Search
+Code-first pipeline (Dagster over cron-style DAGs) that transforms raw data into ML-ready features, embeds text fields, and serves similarity search through pgvector — built for downstream LLM and recommendation use cases.
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagster-6E4AFF?style=flat-square&logo=dagster&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature%20Store-4B0082?style=flat-square&logo=openai&logoColor=white"/>
 
 <br/><br/>
 
