@@ -178,7 +178,7 @@ Production-style orchestration pipeline that extracts data from multiple sources
 
 <br/><br/>
 
-<a href="https://github.com/Janardhankent"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/Janardhankent/batch-etl-airflow"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-Demo-2C5364?style=flat-square&logo=vercel"/></a>
 
 </td>
