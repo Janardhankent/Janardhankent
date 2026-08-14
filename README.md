@@ -45,14 +45,14 @@ janardhan:
   role: "Data Engineer"
   location: "Dallas, Texas"
   focus:
-    - "Designing scalable ETL / ELT pipelines"
-    - "Cloud-native data platforms & warehousing"
-    - "Data quality, automation & observability"
-    - "Turning messy raw data into trusted, business-ready insights"
+    - "Building lakehouse-first pipelines (Delta Lake / Iceberg) over legacy warehousing"
+    - "Streaming & batch — Kafka + Spark for real-time, Airflow/Dagster for scheduled"
+    - "Data contracts & quality gates (dbt, Great Expectations) so bad data never ships"
+    - "Making pipelines AI-ready — feature stores, embeddings, vector search"
   currently:
-    - "Sharpening system design fundamentals"
-    - "Deepening cloud & DevOps expertise"
-    - "Exploring AI-driven data engineering workflows"
+    - "Going deeper on Kubernetes & Terraform for pipeline infra"
+    - "Code-first orchestration (Dagster) vs. traditional DAG authoring"
+    - "Applied AI in data workflows — RAG pipelines, vector databases"
   fun_fact: "I treat data pipelines the way chefs treat recipes — precise, repeatable, and built to scale."
 ```
 
@@ -178,7 +178,7 @@ Production-style orchestration pipeline that extracts data from multiple sources
 
 <br/><br/>
 
-<a href="https://github.com/Janardhankent/batch-etl-airflow"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/Janardhankent"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-Demo-2C5364?style=flat-square&logo=vercel"/></a>
 
 </td>
@@ -251,11 +251,11 @@ Code-first pipeline (Dagster over cron-style DAGs) that transforms raw data into
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20%2F%20Vector%20Search-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagster-6E4AFF?style=for-the-badge&logo=dagster&logoColor=white"/>
 <img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-0A9EDC?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 </div>
 
